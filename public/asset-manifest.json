@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b236818b.css",
+    "main.js": "/static/js/main.6ed97ef7.js",
+    "static/media/light_aprendamos.svg": "/static/media/light_aprendamos.ebd65aa639de9c9cc4e7.svg",
+    "static/media/dark_aprendamos.svg": "/static/media/dark_aprendamos.3a090a92916355d7de91.svg",
+    "static/media/light_home.svg": "/static/media/light_home.ac4c49538bd0621b674c.svg",
+    "static/media/dark_home.svg": "/static/media/dark_home.514153c59e9c296011c4.svg",
+    "static/media/light_tutoriales.svg": "/static/media/light_tutoriales.2395709e18903f5722c1.svg",
+    "static/media/light_logros.svg": "/static/media/light_logros.ada36ec3268e34aa0008.svg",
+    "static/media/dark_tutoriales.svg": "/static/media/dark_tutoriales.1ea75c1e49bd780a49b8.svg",
+    "static/media/dark_logros.svg": "/static/media/dark_logros.cd6a3eeca9dc02c5bebb.svg",
+    "static/media/light_perfil.svg": "/static/media/light_perfil.fb8b0371ca1bccf73662.svg",
+    "index.html": "/index.html",
+    "static/media/dark_perfil.svg": "/static/media/dark_perfil.1e747d5338315e8af93d.svg",
+    "main.b236818b.css.map": "/static/css/main.b236818b.css.map",
+    "main.6ed97ef7.js.map": "/static/js/main.6ed97ef7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b236818b.css",
+    "static/js/main.6ed97ef7.js"
+  ]
+}
